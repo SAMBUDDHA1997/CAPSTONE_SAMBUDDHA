@@ -1,0 +1,4 @@
+quantity,baseline,trigger,rule
+weekly_delayed_share,0.2317,0.2817,review if above trigger in two consecutive comparable weeks
+weekly_flagged_share,0.1667,0.2667,review if above trigger in two consecutive comparable weeks
+mature_outcome_recall,0.7561,0.7000,review if below trigger after at least 100 delayed outcomes
